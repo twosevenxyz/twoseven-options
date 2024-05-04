@@ -50,7 +50,8 @@ const defaults = {
     '.primevideo.com',
     '.amazon.com',
     '.paramountplus.com',
-    '.crunchyroll.com'
+    '.crunchyroll.com',
+    '.jiocinema.com'
   ],
   [general.sameSiteOverride]: false,
   [general.enableGenericFallback]: true,
