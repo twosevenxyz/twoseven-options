@@ -49,6 +49,7 @@ const defaults = {
     '.hulu.com',
     '.primevideo.com',
     '.amazon.com',
+    '.max.com',
     '.paramountplus.com',
     '.crunchyroll.com',
     '.jiocinema.com'
